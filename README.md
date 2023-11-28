@@ -14,6 +14,7 @@ The dashboard allow a deep dive into data analysis through several pages:
 - Finally, the Sales Forecast Analysis page offers a simple visual tool for simulating sales forecasts based on simple moving averages.
 
 # Technical considerations
+
 - The source file is a flat .csv file. However, to optimize the operation of the table, the initial table was converted into several logically linked tables structured to respect the star schema.
 - The tables with the "DIM" prefixes are the dimension tables. The table with the "FACT" prefix is the fact table (1 fact = 1 sale).
 - This dashboard offers a good overview of what Power Bi is capable of in terms of graphics and dynamic display. The "team Monitoring YTD" page has been designed to be completely dynamic.
