@@ -1,4 +1,4 @@
-# pharma-sales-analysis
+# Pharmaceutical Sales Monitoring Dashboard
 A power Bi project about a marketing &amp; sales synthetic dataset 
 
 # Data Source
