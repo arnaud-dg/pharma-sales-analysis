@@ -16,7 +16,7 @@ The dashboard allow a deep dive into data analysis through several pages:
 - The source file is a flat .csv file. However, to optimize the operation of the table, the initial table was converted into several logically linked tables structured to respect the star schema.
 - The tables with the "DIM" prefixes are the dimension tables. The table with the "FACT" prefix is the fact table (1 fact = 1 sale).
 - This dashboard offers a good overview of what Power Bi is capable of in terms of graphics and dynamic display. The "team Monitoring YTD" page has been designed to be completely dynamic.
-![Star_Schema_Pharma_Sales](Database_structure_pharma_sales.png)
+![Star_Schema_Pharma_Sales](Assets/Database_structure_pharma_sales.png)
 
 # Contacts
 In case of any questions about this dashboard, or for any suggestions for improvement, please contact [arnaud.duigou@data-boost.fr](mailto:arnaud.duigou@data-boost.fr).
