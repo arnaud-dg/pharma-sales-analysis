@@ -3,6 +3,7 @@ A power Bi project about a marketing &amp; sales synthetic dataset
 
 # Data Source
 The dataset used is a simulated dataset provided by [Foresight Bi](https://foresightbi.com.ng/practice-data/3-datasets-for-your-portfolio/).
+
 This mock-dataset, simulated but realistic, presents pharmaceutical sales in two European markets: Germany and Poland. The company does not sell directly to customers but works through a network of distributors in each region.
 
 The dashboard allow a deep dive into data analysis through several pages:
